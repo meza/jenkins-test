@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "howdy"
+echo "1.2"
